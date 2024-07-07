@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
-<h3 align="center">Ayush Pandey Verify now Front-End Developer | React | Passionate About Creating User-Friendly Web Experiences | Graphic Designer | UI Designer | Student</h3>
+<h3 align="center"> Front-End Developer | React | Passionate About Creating User-Friendly Web Experiences | Graphic Designer | UI Designer | Student</h3>
 
 - 🔭 I’m currently working on **E-commerce Platform (promote a local Vendors ).**
 
