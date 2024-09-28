@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-commerce Platform (promote a local Vendors ).**
 
-- 🌱 I’m currently learning **React.js And Express.js**
+- 🌱 I’m currently learning **Next.js And Express.js**
 - My Portfolio- https://ayushpandey7355.github.io/My_Portfolio_Ayush_pandey/
 - 👯 I’m looking to collaborate on **PG (paying guests) rental**
 
