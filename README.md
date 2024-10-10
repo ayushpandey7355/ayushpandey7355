@@ -14,14 +14,11 @@
 - CarRepair-   url:  https://ayushpandey7355.github.io/CarRepair_site-/
   CarRepair Website-A responsive website for a car repair service, showcasing services, contact information, and more. Built using HTML, CSS, and JavaScript.
 - CHESS GAME - https://ayushpandey7355.github.io/CHESS_MY_GAME/    This Multiplayer Chess Game is a web-based application developed using HTML, CSS, and JavaScript. It allows players to challenge their friends or other players online, engaging in classic chess matches in real-time. The game promotes strategic thinking
-
 In upcomming project-
-
 I can add thise Features:
 Multiplayer Mode: Play against friends or random opponents in real-time, making each match exciting and unpredictable.
-
 -Bubble-Game- url: https://ayushpandey7355.github.io/Bubble-Game/
-  Bubble Game- A simple and fun bubble-shooting game developed using HTML, CSS, and JavaScript. Players can pop bubbles to score points in an interactive gaming experience.
+Bubble Game- A simple and fun bubble-shooting game developed using HTML, CSS, and JavaScript. Players can pop bubbles to score points in an interactive gaming experience.
 - CHECK_TODAY_WEATHER - https://ayushpandey7355.github.io/CHECK_TODAY_WEATHER/    "Check Today's Weather: A simple web app to view the current weather conditions for any city, providing real-time updates with a user-friendly interface."
   
 <p align="left">
