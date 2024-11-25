@@ -21,7 +21,8 @@ Multiplayer Mode: Play against friends or random opponents in real-time, making 
 - Tic-Tac-Toe - https://ayushpandey7355.github.io/Tic-Tac-Toe/ : This Tic-Tac-Toe game is a web-based application developed using HTML, CSS, and JavaScript. Designed for two players, this classic game allows users to compete against each other in a fun and interactive environment. 
 - Bubble-Game- url: https://ayushpandey7355.github.io/Bubble-Game/
 Bubble Game- A simple and fun bubble-shooting game developed using HTML, CSS, and JavaScript. Players can pop bubbles to score points in an interactive gaming experience.
-- Rent_a_car - https://ayushpandey7355.github.io/rent_a_car/ easy to rent 
+- Rent_a_car - https://ayushpandey7355.github.io/rent_a_car/ easy to rent
+-  Fitness Gym Website - https://ayushpandey7355.github.io/Fitness-Club/   Fitness Gym Website is a modern, user-friendly platform designed to help users achieve their fitness goals by connecting them with comprehensive gym facilities, professional trainers, and a supportive community. 
 <p align="left">
 </p>
 
