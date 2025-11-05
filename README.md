@@ -28,7 +28,7 @@
 - Optimized user experience through **efficient state management** and **RESTful API architecture**.  
 - 🧰 **Tech Stack:** React.js | Node.js | Express.js | MongoDB | Socket.IO | DaisyUI | Tailwind CSS  
 
-🔗 [GitHub Repository (Talk-Time)](https://github.com/ayushpandey7355/Talk-Time)
+🔗 [GitHub Repository (Talk-Time)]()
 
 ---
 
@@ -39,7 +39,7 @@
 - Integrated **Stripe API** for secure payments and **Redux** for advanced state management.  
 - 🧰 **Tech Stack:** React.js | Ant Design | Node.js | Express.js | MongoDB | Redux | Stripe API  
 
-🔗 [GitHub Repository (Car Rental Platform)](https://github.com/ayushpandey7355/Car-Rental-Platform)
+🔗 [GitHub Repository (Car Rental Platform)]()
 
 ---
 
@@ -49,7 +49,7 @@ A full-stack automobile service website offering **on-site vehicle assistance** 
 
 #### 🩸 **The Blood Portal**  
 A blood donation and management system connecting donors and recipients.  
-🔗 [GitHub Repository](https://github.com/ayushpandey7355/The-Blood-Portal)
+🔗 [GitHub Repository]()
 
 #### 🧮 **Try TextUtils App**  
 React-based text utility app for text transformation and cleaning.  
