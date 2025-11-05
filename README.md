@@ -1,31 +1,122 @@
 <h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
-<h3 align="center"> Front-End Developer | React | Passionate About Creating User-Friendly Web Experiences | Graphic Designer | UI Designer | Student</h3>
+<h3 align="center">Full-Stack Developer | React | Next.js | Express.js | Python | AI & Cloud Enthusiast | Real-Time Systems | UI/UX Designer</h3>
 
-- 🔭 I’m currently working on **E-commerce Platform (promote a local Vendors ).**
+🚀 **Innovative Developer crafting intelligent, high-performance web applications** powered by AI, real-time data, and cloud infrastructure.  
+💡 Passionate about building **scalable full-stack systems**, designing **modern UI/UX interfaces**, and integrating **AI agents** for smarter user experiences.  
+🧠 Constantly exploring **Generative AI**, **Machine Learning**, and **Cloud-Native Deployments** to bridge the gap between intelligence and interactivity.  
 
-- 🌱 I’m currently learning **Next.js And Express.js** 
-- My Portfolio- https://ayushpandey7355.github.io/My_Portfolio_Ayush_pandey/
-- 👯 I’m looking to collaborate on **PG (paying guests) rental**
+---
 
-- 👨‍💻 All of my projects are available at [ayushpandey7355](ayushpandey7355)
+### ⚙️ About Me  
 
+- 👨‍💻 Working on **personal AI-integrated web projects** that combine automation, design, and functionality.  
+- 💡 Proficient in **Next.js**, **React**, **Node.js**, **Express.js**, **Python**, and **MERN Stack**.  
+- ☁️ Hands-on with **AWS (EC2, S3)**, **Google Cloud**, and **Vercel** for scalable hosting and CI/CD pipelines.  
+- 🔐 Focused on **secure, high-performance APIs**, **authentication systems**, and **real-time WebSocket communication**.  
+- 🧩 Strong Frontend Skills in **React**, **Next.js**, **Tailwind CSS**, **DaisyUI**, and **Ant Design**.  
+- 🔬 Exploring **AI Agents**, **LangChain**, and **OpenAI APIs** for next-gen web applications.  
 
-- My project_link
-  
-- CHESS GAME - https://ayushpandey7355.github.io/CHESS_MY_GAME/    This Multiplayer Chess Game is a web-based application developed using HTML, CSS, and JavaScript. It allows players to challenge their friends or other players online, engaging in classic chess matches in real-time. The game promotes strategic thinking
-In upcomming project-
-I can add thise Features:
-Multiplayer Mode: Play against friends or random opponents in real-time, making each match exciting and unpredictable.
-- CHECK_TODAY_WEATHER - https://ayushpandey7355.github.io/CHECK_TODAY_WEATHER/    "Check Today's Weather: A simple web app to view the current weather conditions for any city, providing real-time updates with a user-friendly interface."
-- Tic-Tac-Toe - https://ayushpandey7355.github.io/Tic-Tac-Toe/ : This Tic-Tac-Toe game is a web-based application developed using HTML, CSS, and JavaScript. Designed for two players, this classic game allows users to compete against each other in a fun and interactive environment. 
-- Bubble-Game- url: https://ayushpandey7355.github.io/Bubble-Game/
-Bubble Game- A simple and fun bubble-shooting game developed using HTML, CSS, and JavaScript. Players can pop bubbles to score points in an interactive gaming experience.
-- Rent_a_car - https://ayushpandey7355.github.io/rent_a_car/ easy to rent
--  Fitness Gym Website - https://ayushpandey7355.github.io/Fitness-Club/   Fitness Gym Website is a modern, user-friendly platform designed to help users achieve their fitness goals by connecting them with comprehensive gym facilities, professional trainers, and a supportive community. 
-<p align="left">
+---
+
+### 🧩 Featured Projects  
+
+#### 💬 **Real-Time Chat Application (Talk-Time)**  
+- Built a **real-time chat platform** using **MERN Stack** and **Socket.IO**, supporting one-to-one and group messaging.  
+- Designed a responsive UI with **Daisy UI** and **Tailwind CSS**, ensuring seamless performance across devices.  
+- Integrated **MongoDB** for persistent message storage and retrieval.  
+- Implemented a **secure backend** with **Node.js** & **Express.js** for authentication and WebSocket events.  
+- Optimized user experience through **efficient state management** and **RESTful API architecture**.  
+- 🧰 **Tech Stack:** React.js | Node.js | Express.js | MongoDB | Socket.IO | DaisyUI | Tailwind CSS  
+
+🔗 [GitHub Repository (Talk-Time)](https://github.com/ayushpandey7355/Talk-Time)
+
+---
+
+#### 🚗 **Car Rental Platform**  
+- Developed a **user-friendly car rental platform** with a refined UI using **React.js** and **Ant Design**.  
+- Built **RESTful APIs** in **Node.js** to manage car listings, bookings, and authentication.  
+- Created an **admin dashboard** for real-time inventory management and analytics.  
+- Integrated **Stripe API** for secure payments and **Redux** for advanced state management.  
+- 🧰 **Tech Stack:** React.js | Ant Design | Node.js | Express.js | MongoDB | Redux | Stripe API  
+
+🔗 [GitHub Repository (Car Rental Platform)](https://github.com/ayushpandey7355/Car-Rental-Platform)
+
+---
+
+#### 🛠️ **RideEase: Car Service Platform**  
+A full-stack automobile service website offering **on-site vehicle assistance** and **service management**.  
+🔗 [GitHub Repository](https://github.com/ayushpandey7355/RideEase)
+
+#### 🩸 **The Blood Portal**  
+A blood donation and management system connecting donors and recipients.  
+🔗 [GitHub Repository](https://github.com/ayushpandey7355/The-Blood-Portal)
+
+#### 🧮 **Try TextUtils App**  
+React-based text utility app for text transformation and cleaning.  
+🔗 [GitHub Repository](https://github.com/ayushpandey7355/Try-TextUtils---word-counter-character-counter-remove-extra-spaces.git)
+
+#### 🎮 **Bubble Game** | ⛅ **Weather App** | ❌ **Tic-Tac-Toe**  
+Fun and interactive web apps built with HTML, CSS, and JavaScript.  
+🔗 [Play Bubble Game](https://ayushpandey7355.github.io/Bubble-Game/)  
+🔗 [Try Tic-Tac-Toe](https://ayushpandey7355.github.io/Tic-Tac-Toe/)  
+🔗 [Weather App](https://github.com/ayushpandey7355/CHECK_TODAY_WEATHER)
+
+---
+
+### 💻 Tech Stack  
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+  <br/>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br/>
+
+  <!-- AI / Cloud -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <br/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpandey7355&show_icons=true&locale=en&layout=compact" alt="ayushpandey7355" /></p>
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpandey7355&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushpandey7355&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpandey7355&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+⭐ **“Code. Create. Automate. Innovate.”**  
+Building the next generation of **AI-driven, cloud-native, full-stack applications** with a focus on performance, scalability, and intelligent design.
