@@ -8,19 +8,19 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Full Stack Developer | AI Enthusiast | Cloud Developer
+  Full Stack Developer | React | Next.js | Node.js | AI Enthusiast
 </h3>
 
 <p align="center">
-  Passionate about building scalable web applications with modern technologies
+  Passionate about building scalable web applications with modern technologies and clean code
 </p>
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ayushpandey7355.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushpandey7355)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushpandey7355)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushpandey7355@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayushpandey7355.github.io/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushpandey7355)
+[![GitHub](https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushpandey7355)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushpandey7355@gmail.com)
 
 </div>
 
@@ -83,14 +83,14 @@
 
 A full-featured real-time chat application supporting one-to-one and group messaging with modern UI/UX.
 
-**Key Features:**
+**✨ Key Features:**
 - Real-time messaging with Socket.IO
 - User authentication & authorization
 - Responsive design with Tailwind CSS
 - Message persistence with MongoDB
 - Modern UI components with DaisyUI
 
-**Tech Stack:** React.js | Node.js | Express.js | MongoDB | Socket.IO | Tailwind CSS
+**🛠️ Tech Stack:** React.js | Node.js | Express.js | MongoDB | Socket.IO | Tailwind CSS
 
 ---
 
@@ -105,14 +105,14 @@ A full-featured real-time chat application supporting one-to-one and group messa
 
 A comprehensive car rental platform with admin dashboard and payment integration.
 
-**Key Features:**
+**✨ Key Features:**
 - Car booking & management system
 - Admin dashboard for inventory management
 - Secure payment processing with Stripe
 - Advanced state management with Redux
 - RESTful API architecture
 
-**Tech Stack:** React.js | Ant Design | Node.js | Express.js | MongoDB | Redux | Stripe API
+**🛠️ Tech Stack:** React.js | Ant Design | Node.js | Express.js | MongoDB | Redux | Stripe API
 
 ---
 
@@ -128,6 +128,30 @@ Complete automobile service platform offering on-site vehicle assistance and ser
 
 🔗 **[View Repository](https://github.com/ayushpandey7355/RideEase)**
 
+**✨ Features:**
+- Service booking system
+- Technician management
+- Customer portal
+- Service history tracking
+
+---
+
+### 🩸 The Blood Portal
+<div align="center">
+
+![Healthcare](https://img.shields.io/badge/Healthcare-Platform-DC3545?style=for-the-badge)
+![Donation System](https://img.shields.io/badge/Blood_Donation-FF6B6B?style=for-the-badge)
+
+</div>
+
+A blood donation management system connecting donors and recipients efficiently.
+
+**✨ Features:**
+- Donor registration & management
+- Blood request system
+- Location-based donor matching
+- Emergency blood availability
+
 ---
 
 ## 🎮 Interactive Applications
@@ -135,16 +159,16 @@ Complete automobile service platform offering on-site vehicle assistance and ser
 <div align="center">
 
 ### 🎯 Bubble Game
-[![Play Now](https://img.shields.io/badge/Play_Game-Bubble_Game-FF6B6B?style=for-the-badge&logo=game&logoColor=white)](https://ayushpandey7355.github.io/Bubble-Game/)
+[![Play Now](https://img.shields.io/badge/🎮_Play_Game-FF6B6B?style=for-the-badge&logo=game&logoColor=white)](https://ayushpandey7355.github.io/Bubble-Game/)
 
 ### ❌ Tic-Tac-Toe
-[![Play Now](https://img.shields.io/badge/Play_Game-Tic_Tac_Toe-4ECDC4?style=for-the-badge&logo=game&logoColor=white)](https://ayushpandey7355.github.io/Tic-Tac-Toe/)
+[![Play Now](https://img.shields.io/badge/🎮_Play_Game-4ECDC4?style=for-the-badge&logo=game&logoColor=white)](https://ayushpandey7355.github.io/Tic-Tac-Toe/)
 
 ### ⛅ Weather App
-[![View Code](https://img.shields.io/badge/View_Code-Weather_App-45B7D1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushpandey7355/CHECK_TODAY_WEATHER)
+[![View Code](https://img.shields.io/badge/🔍_View_Code-45B7D1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushpandey7355/CHECK_TODAY_WEATHER)
 
 ### 📝 TextUtils
-[![View Code](https://img.shields.io/badge/View_Code-TextUtils-9368B7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushpandey7355/Try-TextUtils---word-counter-character-counter-remove-extra-spaces.git)
+[![View Code](https://img.shields.io/badge/🔍_View_Code-9368B7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushpandey7355/Try-TextUtils---word-counter-character-counter-remove-extra-spaces.git)
 
 </div>
 
@@ -152,11 +176,11 @@ Complete automobile service platform offering on-site vehicle assistance and ser
 
 ## 📈 What I'm Working On
 
-- 🔭 Building **AI-powered web applications** with OpenAI integration
-- 🌱 Learning **advanced cloud architecture** and **microservices**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Node.js, MongoDB, and Full Stack Development**
-- ⚡ Fun fact: I love solving complex problems with clean code
+- 🔭 **Building AI-powered web applications** with OpenAI integration
+- 🌱 **Learning advanced cloud architecture** and microservices
+- 👯 **Looking to collaborate** on open source projects
+- 💬 **Ask me about** React, Node.js, MongoDB, and Full Stack Development
+- ⚡ **Fun fact:** I love solving complex problems with clean code
 
 ---
 
@@ -168,7 +192,7 @@ Complete automobile service platform offering on-site vehicle assistance and ser
 - **State Management:** Redux, Context API
 - **Build Tools:** Vite, Webpack
 
-### Backend Development
+### Backend Development  
 - **Runtime:** Node.js, Express.js
 - **Languages:** JavaScript, Python, Java
 - **API Development:** REST APIs, GraphQL, WebSocket
@@ -182,19 +206,33 @@ Complete automobile service platform offering on-site vehicle assistance and ser
 
 ---
 
+## 🌟 GitHub Highlights
+
+<div align="center">
+
+### 🏆 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=ayushpandey7355&theme=react&hide_border=true)
+
+### 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpandey7355&layout=compact&theme=react&hide_border=true)
+
+</div>
+
+---
+
 <div align="center">
 
 ## 📫 Let's Connect!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ayushpandey7355.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushpandey7355)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushpandey7355)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushpandey7355@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayushpandey7355.github.io/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushpandey7355)
+[![GitHub](https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushpandey7355)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushpandey7355@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-**"Code with purpose. Build with passion. Innovate with technology."**
+### **"Code with purpose. Build with passion. Innovate with technology."**
 
-⭐ **Thank you for visiting my profile!**
+⭐ **Thank you for visiting my profile! Feel free to explore my repositories and get in touch!**
 
 </div>
