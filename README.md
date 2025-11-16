@@ -6,161 +6,179 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-<h2 align="center">🚀 Full Stack Developer | React Specialist | Cloud Enthusiast</h2>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Full Stack Developer | React Specialist | Cloud Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📞-7355003459-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/📧-ayushpandey7355@gmail.com-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/📍-Available for Opportunities-green?style=flat-square" />
-</p>
-
-<p align="center">
-  Passionate developer crafting robust web applications with modern technologies. 
-  Specialized in MERN stack, real-time systems, and scalable architecture.
+  Passionate about building scalable applications with modern technologies and delivering efficient technical solutions
 </p>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Stack
 
-<div align="center">
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### **Frontend Mastery**
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+### 🌐 Web Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+</p>
 
-### **Backend Expertise**
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+### 🎨 Frontend Styling
+<p align="center">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Daisy_UI-5A0EF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+</p>
 
-### **Databases & Cloud**
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+### ☁️ Backend & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-### **Tools & Technologies**
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-</div>
+### 🔧 Tools & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-## 💻 Project Portfolio
+## 🔬 Technical Expertise
 
-### 🔥 **Real-Time Chat Application** 
+### 🧪 Testing & QA
+- **Manual Testing:** Functional, Regression, Smoke, Sanity, UAT
+- **API Testing:** Postman for endpoint validation
+- **Test Management:** Test Planning, Case Design, Defect Lifecycle
+- **Methodologies:** Black Box Testing, STLC
+
+### 🛠️ Technical Operations
+- **Service Desk Management:** L1 Technical Support, Incident Handling
+- **System Administration:** Microsoft 365, Active Directory
+- **Collaboration Tools:** MS Teams, Zoom, Virtual Collaboration
+- **Documentation:** Process Documentation, Knowledge Base
+
+### 🤖 Emerging Technologies
+- **AI & ML:** Basic understanding of Machine Learning concepts
+- **AI APIs:** ChatGPT API, OpenAI API integration
+- **Automation:** AI-driven automation and prompt engineering
+
+### 📋 Methodologies
+- **Development:** SDLC, Agile, Scrum, Waterfall
+- **DevOps:** GitHub Actions, GitLab CI/CD
+- **Quality:** Continuous Service Improvement, Root Cause Analysis
+
+---
+
+## 🚀 Projects
+
+### 💬 Real-Time Chat Application (Talk-Time)
 <div align="center">
   
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-7.0-47A248?style=flat-square)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-4.0-010101?style=flat-square)
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Real_Time-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
-**A feature-rich messaging platform with real-time communication capabilities**
+**A feature-rich real-time messaging platform**
 
-#### 🎯 **Key Features:**
-- 💬 **Real-time messaging** with instant message delivery
-- 👥 **Group chat functionality** for multiple participants  
-- 🔐 **User authentication** with secure login system
-- 📱 **Responsive design** optimized for all devices
-- 💾 **Message persistence** with complete chat history
-- ⚡ **WebSocket integration** for live communication
+**✨ Key Features:**
+- Real-time one-to-one and group messaging with WebSocket communication
+- Responsive and accessible UI with Daisy UI and Tailwind CSS
+- Message persistence with MongoDB for complete chat history
+- Secure backend with Node.js & Express.js handling authentication
+- Optimized performance with RESTful APIs and efficient state management
 
-#### 🛠️ **Technical Implementation:**
-- **Frontend:** React with modern hooks and context API
-- **Backend:** Node.js & Express with RESTful architecture
-- **Database:** MongoDB with optimized queries
-- **Real-time:** Socket.IO for bidirectional communication
-- **Styling:** Tailwind CSS with custom components
-- **State Management:** Context API for global state
+**🛠️ Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.io, Daisy UI, Tailwind CSS
 
 ---
 
-### 🚗 **Car Rental Platform**
+### 🚗 Car Rental Platform
 <div align="center">
 
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square)
-![Ant Design](https://img.shields.io/badge/Ant_Design-5.0-0170FE?style=flat-square)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-1.9-764ABC?style=flat-square)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Ant Design](https://img.shields.io/badge/UI-Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Stripe](https://img.shields.io/badge/Payments-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 </div>
 
-**Comprehensive vehicle rental system with admin management**
+**Comprehensive vehicle rental and management system**
 
-#### 🎯 **Key Features:**
-- 🚘 **Car inventory management** with advanced filtering
-- 📅 **Booking system** with date selection and availability
-- 💳 **Secure payments** integrated with Stripe
-- 👨‍💼 **Admin dashboard** for inventory control
-- 📊 **Analytics** for booking trends and revenue
-- 📱 **Mobile-responsive** design
+**✨ Key Features:**
+- User-friendly car rental platform with polished UI
+- RESTful APIs for car inventory, bookings, and user authentication
+- Admin dashboard for inventory management and booking oversight
+- Secure payment processing with Stripe API integration
+- Advanced state management with Redux
 
-#### 🛠️ **Technical Implementation:**
-- **Frontend:** React with Ant Design components
-- **State Management:** Redux Toolkit for complex state
-- **Payments:** Stripe API integration with webhooks
-- **Backend:** Node.js with JWT authentication
-- **Database:** MongoDB with aggregation pipelines
-- **Deployment:** Cloud platform with CI/CD
+**🛠️ Tech Stack:** React.js, Ant Design, Node.js, Express.js, MongoDB, Redux, Stripe API
 
 ---
 
-### 🛠️ **RideEase - Car Service Platform**
+### 🛠️ RideEase - Car Service Platform
 <div align="center">
 
-![Full Stack](https://img.shields.io/badge/Full_Stack-MERN-F7DF1E?style=flat-square)
-![Service Management](https://img.shields.io/badge/Service_Management-FF6B35?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full_Stack-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Automotive](https://img.shields.io/badge/Automotive-Services-FF6B35?style=for-the-badge)
 
 </div>
 
-**Automobile service and maintenance management system**
+**Complete automobile service and maintenance platform**
 
-#### 🎯 **Key Features:**
-- 🔧 **Service booking** with appointment scheduling
-- 👨‍🔧 **Technician management** and assignment
-- 📝 **Service history** tracking for vehicles
-- 🔔 **Notification system** for service updates
-- 📋 **Customer portal** for service requests
-
-#### 🛠️ **Technical Stack:**
-- **Frontend:** React with custom UI components
-- **Backend:** Node.js & Express.js
-- **Database:** MongoDB with Mongoose ODM
-- **Authentication:** JWT-based security
-- **Real-time Updates:** WebSocket connections
+**✨ Features:**
+- Service booking system with appointment scheduling
+- Technician management and assignment
+- Customer portal for service requests
+- Service history tracking and management
 
 ---
 
-### 🩸 **The Blood Portal**
+### 🩸 The Blood Portal
 <div align="center">
 
-![Healthcare](https://img.shields.io/badge/Healthcare-Tech-DC3545?style=flat-square)
-![Donation System](https://img.shields.io/badge/Donation_Platform-FF6B6B?style=flat-square)
+![Healthcare](https://img.shields.io/badge/Healthcare-Platform-DC3545?style=for-the-badge)
+![Donation System](https://img.shields.io/badge/Blood_Donation-FF6B6B?style=for-the-badge)
 
 </div>
 
-**Life-saving platform connecting blood donors with recipients**
+**Life-saving blood donation management system**
 
-#### 🎯 **Key Features:**
-- 🩸 **Donor registration** with blood type tracking
-- 🏥 **Blood request system** for emergencies
-- 📍 **Location-based matching** for quick responses
-- 🔔 **Emergency alerts** for critical needs
-- 📊 **Inventory management** for blood banks
+**✨ Features:**
+- Donor registration and management system
+- Blood request system for emergencies
+- Location-based donor matching
+- Emergency blood availability management
 
 ---
 
@@ -168,112 +186,71 @@
 
 <div align="center">
 
-### 🎯 **Bubble Game**
-[![Play Game](https://img.shields.io/badge/🎮_Bubble_Game-FF6B6B?style=for-the-badge)](https://ayushpandey7355.github.io/Bubble-Game/)
-*Fast-paced bubble popping game with score tracking*
+### 🎯 Bubble Game
+[![Play Now](https://img.shields.io/badge/🎮_Bubble_Game-FF6B6B?style=for-the-badge)](https://ayushpandey7355.github.io/Bubble-Game/)
 
-### ❌ **Tic-Tac-Toe**
-[![Play Game](https://img.shields.io/badge/🎮_Tic_Tac_Toe-4ECDC4?style=for-the-badge)](https://ayushpandey7355.github.io/Tic-Tac-Toe/)
-*Classic game with modern UI and game logic*
+### ❌ Tic-Tac-Toe
+[![Play Now](https://img.shields.io/badge/🎮_Tic_Tac_Toe-4ECDC4?style=for-the-badge)](https://ayushpandey7355.github.io/Tic-Tac-Toe/)
 
-### ⛅ **Weather App**
+### ⛅ Weather App
 [![View Code](https://img.shields.io/badge/🔍_Weather_App-45B7D1?style=for-the-badge)](https://github.com/ayushpandey7355/CHECK_TODAY_WEATHER)
-*Real-time weather information with location services*
 
-### 📝 **TextUtils**
+### 📝 TextUtils
 [![View Code](https://img.shields.io/badge/🔍_TextUtils-9368B7?style=for-the-badge)](https://github.com/ayushpandey7355/Try-TextUtils---word-counter-character-counter-remove-extra-spaces.git)
-*Text processing utility with multiple formatting options*
 
 </div>
 
 ---
 
-## 📈 Development Philosophy
+## 📜 Certifications
 
 <div align="center">
 
-### 🎯 **Code Quality**
-![Clean Code](https://img.shields.io/badge/Clean_Code-✓-brightgreen?style=flat-square)
-![Best Practices](https://img.shields.io/badge/Best_Practices-✓-brightgreen?style=flat-square)
-![Performance](https://img.shields.io/badge/Performance_Optimized-✓-brightgreen?style=flat-square)
-
-### 🔧 **Methodologies**
-![Agile](https://img.shields.io/badge/Agile_Development-✓-blue?style=flat-square)
-![Responsive](https://img.shields.io/badge/Responsive_Design-✓-blue?style=flat-square)
-![RESTful](https://img.shields.io/badge/RESTful_APIs-✓-blue?style=flat-square)
-
-### 🚀 **Technologies**
-![Modern Stack](https://img.shields.io/badge/Modern_Stack-✓-orange?style=flat-square)
-![Cloud Native](https://img.shields.io/badge/Cloud_Ready-✓-orange?style=flat-square)
-![Scalable](https://img.shields.io/badge/Scalable_Architecture-✓-orange?style=flat-square)
+![Cisco CCNA](https://img.shields.io/badge/CCNAv7-Introduction_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco CCNA](https://img.shields.io/badge/CCNAv7-Switching_Routing_Wireless-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco CCNA](https://img.shields.io/badge/CCNAv7-Enterprise_Networking_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Business Analysis](https://img.shields.io/badge/Business_Analysis-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Web Technologies](https://img.shields.io/badge/HTML_SQL_JavaScript-Great_Learning-FF6B6B?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+## 🌟 Development Skills
 
-### 📚 **Academic Background**
-- **Master of Computer Applications** - ABES Engineering College (8.01 CGPA)
-- **Bachelor of Science - IT** - Shri Ramswaroop Memorial University (7.91 CGPA)
+### 💻 Frontend Development
+- **Modern Frameworks:** React.js, Next.js with TypeScript
+- **State Management:** Redux, Context API for complex applications
+- **UI/UX Design:** Responsive design with modern CSS frameworks
+- **Component Libraries:** Material UI, Ant Design, Shadcn UI
+- **Performance Optimization:** Code splitting, lazy loading, bundle optimization
 
-### 🏅 **Professional Certifications**
-- **Cisco CCNA** - Networking Fundamentals
-- **Business Analysis** - Process Management
-- **Web Technologies** - Full Stack Development
+### ⚙️ Backend Development
+- **API Development:** RESTful services with Express.js
+- **Authentication:** JWT-based security implementation
+- **Real-time Communication:** WebSocket with Socket.io
+- **Server-side Logic:** Python and Node.js backend development
+- **Cloud Integration:** AWS Lambda and API Gateway
 
----
+### 🗄️ Database Management
+- **NoSQL:** MongoDB with Mongoose ODM
+- **SQL Databases:** MySQL for relational data
+- **Data Modeling:** Schema design and optimization
+- **Query Optimization:** Efficient database operations
 
-## 💡 Core Competencies
-
-### **Frontend Development**
-- Modern React with Hooks and Functional Components
-- TypeScript for type-safe development
-- State Management (Redux, Context API)
-- Responsive Web Design with CSS Frameworks
-- Component Libraries (Ant Design, Material UI)
-
-### **Backend Development**
-- RESTful API Design and Development
-- Database Design and Optimization
-- Authentication and Authorization
-- Real-time Communication (WebSockets)
-- Server-side Logic and Business Rules
-
-### **Full Stack Capabilities**
-- End-to-end Application Development
-- API Integration and Third-party Services
-- Deployment and DevOps Practices
-- Performance Optimization
-- Testing and Quality Assurance
-
----
-
-## 🌟 Professional Attributes
-
-- **🔍 Problem Solver:** Strong analytical and debugging capabilities
-- **🤝 Team Player:** Excellent collaboration and communication skills
-- **🚀 Fast Learner:** Quick adaptation to new technologies
-- **💡 Innovative:** Creative approach to technical challenges
-- **📊 Quality Focused:** Commitment to excellence in code quality
+### 🔧 DevOps & Tools
+- **Version Control:** Git workflows and collaboration
+- **Development Tools:** VS Code, Postman, Chrome Dev Tools
+- **Project Management:** JIRA, Agile methodologies
+- **Testing:** Comprehensive testing strategies
+- **Documentation:** Technical documentation and guides
 
 ---
 
 <div align="center">
-
-## 📞 Let's Connect
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Email-ayushpandey7355@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Phone-7355003459-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-ayushpandey7355-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<h3>💻 "Building the future, one line of code at a time" 💻</h3>
-
-<p>⭐ <strong>Passionate about creating impactful digital solutions</strong> ⭐</p>
+<h3>💻 "Building scalable solutions with modern technologies" 💻</h3>
 
 </div>
