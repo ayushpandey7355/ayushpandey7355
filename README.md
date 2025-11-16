@@ -7,8 +7,11 @@
 ---
 
 # 🚀 About Me  
-I’m a passionate developer focused on **Frontend Development, Cloud, Backend & AI/ML**.  
-I love building clean, scalable, and high-performance applications.
+I’m a passionate developer focused on Frontend Development, Cloud, Backend & AI/ML, dedicated to crafting clean, scalable, and high-performance applications.
+
+Detail-oriented Software Developer with strong hands-on experience in React.js, TypeScript, JavaScript, Python, REST APIs, AWS Lambda, and MongoDB. I specialize in building scalable, responsive, and user-centric web applications, integrating robust backend services, and optimizing performance across the stack.
+
+With a solid understanding of SDLC, STLC, debugging, troubleshooting, and Agile/Scrum workflows, I bring a blend of engineering discipline and creative problem-solving to every project. A fast learner with excellent communication skills, I’m committed to delivering clean code, intuitive UI/UX, and efficient technical solutions that enhance product quality and user experience.
 
 ---
 
