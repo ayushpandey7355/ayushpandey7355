@@ -63,10 +63,11 @@ With a solid understanding of SDLC, STLC, debugging, troubleshooting, and Agile/
 
 ---
 
-# 📘 Currently Learning  
+# 📘Enhancing Skills In
 - Backend Development: **Node.js + MongoDB**  
 - AWS Cloud: **Lambda, S3, EC2**  
 - AI & Machine Learning  
-- Full-Stack Development Patterns  
+- Full-Stack Development Patterns 
+- Google Cloud Platform (GCP) – Compute Engine specialization
 
 ---
