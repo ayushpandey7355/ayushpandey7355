@@ -1,4 +1,3 @@
-
 <!-- Header Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=28&duration=4000&pause=1000&color=00A8FF&center=true&vCenter=true&width=800&lines=Hi+There+👋;+I'm+Ayush+Pandey+%7C+Full+Stack+Developer;Passionate+Frontend+%26+Cloud+Learner;Building+Projects+That+Solve+Real+Problems" alt="Typing Animation" />
@@ -8,6 +7,9 @@
 
 # 🚀 About Me  
 I’m a passionate developer focused on Development, Cloud, Backend & AI/ML, dedicated to crafting clean, scalable, and high-performance applications.
+
+🔗 **My Portfolio:**  
+👉 **https://my-portfolio-ayush-pandey-09.vercel.app/**
 
 Detail-oriented Software Developer with strong hands-on experience in React.js, TypeScript, JavaScript, Python, REST APIs, AWS Lambda, and MongoDB. I specialize in building scalable, responsive, and user-centric web applications, integrating robust backend services, and optimizing performance across the stack.
 
@@ -44,7 +46,7 @@ With a solid understanding of SDLC, STLC, debugging, troubleshooting, and Agile/
 ### 🔹 **Major Projects**
 | Project | Tech | Description |
 |--------|------|-------------|
-| **Portfolio Website** | React, TypeScript | Modern, responsive developer portfolio. |
+| **Portfolio Website** | React, TypeScript | Modern, responsive developer portfolio. **[Live Link](https://my-portfolio-ayush-pandey-09.vercel.app/)** |
 | **Event Management System** | JavaScript | Event listing, forms, dashboard UI. |
 | **Car Rental Project** | TypeScript | Booking flow, filters, pricing calculations. |
 | **Chat App (JS)** | JavaScript | Real-time style messaging UI. |
@@ -63,11 +65,9 @@ With a solid understanding of SDLC, STLC, debugging, troubleshooting, and Agile/
 
 ---
 
-# 📘Enhancing Skills In
+# 📘 Enhancing Skills In
 - Backend Development: **Node.js + MongoDB**  
 - AWS Cloud: **Lambda, S3, EC2**  
 - AI & Machine Learning  
-- Full-Stack Development Patterns 
+- Full-Stack Development Patterns  
 - Google Cloud Platform (GCP) – Compute Engine specialization
-
----
