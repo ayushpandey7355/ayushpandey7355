@@ -3,13 +3,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=28&duration=4000&pause=1000&color=00A8FF&center=true&vCenter=true&width=800&lines=Hi+There+👋;+I'm+Ayush+Pandey+%7C+Full+Stack+Developer;Passionate+Frontend+%26+Cloud+Learner;Building+Projects+That+Solve+Real+Problems" alt="Typing Animation" />
 </p>
 
+<!-- Portfolio Button -->
+<p align="center">
+  <a href="https://my-portfolio-ayush-pandey-09.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00A8FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 # 🚀 About Me  
 I’m a passionate developer focused on Development, Cloud, Backend & AI/ML, dedicated to crafting clean, scalable, and high-performance applications.
-
-🔗 **My Portfolio:**  
-👉 **https://my-portfolio-ayush-pandey-09.vercel.app/**
 
 Detail-oriented Software Developer with strong hands-on experience in React.js, TypeScript, JavaScript, Python, REST APIs, AWS Lambda, and MongoDB. I specialize in building scalable, responsive, and user-centric web applications, integrating robust backend services, and optimizing performance across the stack.
 
